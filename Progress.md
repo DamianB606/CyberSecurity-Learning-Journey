@@ -20,11 +20,16 @@
 ### 4. Command Line
 - Practiced essential Bash commands in Linux  
 - Used Windows Command Prompt and PowerShell for system interaction  
-- Understood how command-line tools are applied in real-world security tasks  
+- Understood how command-line tools are applied in real-world security tasks
+  
+### 5. Networking
+- Learned the OSI model and TCP/IP protocol suite, including how data flows through each layer
+- Covered core networking concepts: IP addressing, routing, and packet delivery
+- Explored key protocols: DHCP, DNS, ARP, ICMP, TLSS, SSH and VPN
+- Understood how port numbers change when moving from insecure to secure protocols (e.g., HTTP -> HTTPS, SMTP->SMTPS)
+- Secure protocols use TLS encryption to protect data in transit
+- Practiced packet analysis in Wireshark to observe protocol behaviour and network traffic
+
 
 ## 🚧 In Progress
-
-### Networking
-- Currently learning the OSI model and TCP/IP layers  
-- Exploring common networking protocols and how they are secured  
-- Hands-on exercises with plaintext vs secure communications  
+- Next room to be covered: tcpdump (command-line packet capture and filtering)

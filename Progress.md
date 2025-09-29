@@ -35,5 +35,3 @@
 - Next room to be covered: tcpdump (command-line packet capture and filtering)
 
 
-## 🚧 In Progress
-- Next room to be covered: tcpdump (command-line packet capture and filtering)

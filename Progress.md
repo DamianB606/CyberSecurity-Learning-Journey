@@ -34,4 +34,8 @@
 ## 🚧 In Progress
 - Next room to be covered: tcpdump (command-line packet capture and filtering)
 
-
+## Current Focus
+I've currently decided to pause my progress in TryHackMe and instead, move onto HackTheBox and prioritise **HTB Academy Penetration Tester Job Role Path**.
+My reasoning is simple: HackTheBox content revisits the same foundational concepts but teaches them in a more hands-on approach, which i find helps me learn faster and retain skills.
+I still plan to return to **Cyber Security 101 Path** on TryHackMe in the future, both for completeness and making sure there are no gaps in my learning.
+Once I complete my HTB path, I will be uploading my **Certification Of Completion** and any **badges earned** on **LinkedIn** as a verifiable proof of progess.

@@ -1,13 +1,10 @@
 # Cyber Security Learning Journey
+This repository documents my progress across multiple cyber security learning platforms, including **TryHackMe** and **Hack The Box**.  
+It tracks my development from foundational concepts through to hands-on labs and job-role-based learning paths.
 
-This repository documents my progress in cybersecurity through platforms such as TryHackMe, HackTheBox and future personal projects.  
-It currently focuses on HackTheBox academy, going through the **Penetration Tester Job Role Path**, and **HTB Labs**.
+## Current Focus
+I’m currently focused on the **SOC Analyst** job role path on Hack The Box, applying concepts from earlier Penetration Tester modules to defensive operations, log analysis, and incident response.
 
-## Roadmap
-- Continue updating **HackTheBox.md** as I complete new modules  
-- Once I reach more advanced modules within the **Penetration Tester Job Role Path**, i will begin adding:
-  - Write-ups for challenging rooms/labs that are worth showcasing  
-  - Personal projects and experiments in cybersecurity tools
-
-This way, the repository will grow from basic foundations into a full record of my technical learning and hands-on skills.
-
+## Structure
+- **TryHackMe.md** – progress on the Cyber Security 101 path (paused midway while focusing on Hack The Box)  
+- **HackTheBox.md** – main progress tracker including completed modules, labs, and ongoing SOC Analyst learning

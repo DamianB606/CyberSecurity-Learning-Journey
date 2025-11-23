@@ -19,6 +19,7 @@ I've therefore pivoted to the **SOC Analyst** job role path on HackTheBox to bui
 - Incident response workflows
 - SIEM monitoring and alert triage
 - Threat intelligence fundamentals
+
 This section will track my ongoing progress and learning outcomes as I develop a stronger focus on defending systems and identifying real-world attack patterns.
 ## SOC Analyst Job Role Path (in progress)
 
